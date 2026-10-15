@@ -1,1 +1,3 @@
-# aulas-semin-rio-I
+# Aulas - Seminário I
+
+##
